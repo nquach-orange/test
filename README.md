@@ -6,3 +6,7 @@ it uses HTML5 and CSS3
 * list of daily tasks 
 
 ### create by ADMIN \\\
+
+
+## Extra
+* list of daily missions
